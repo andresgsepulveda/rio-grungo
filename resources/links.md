@@ -17,6 +17,12 @@ This supplement outlines expanded rules for herbalism and alchemy in D&D 5e. Add
 
 https://drive.google.com/file/d/0B7CIGCMCtoETVmhDNEZMbUVweTg/view?resourcekey=0-wBswNHjigJLyaTkFdVZVuA
 
+## Guns, Bullets, and Bombs 
+
+Rules for 1800s era firearms by u/PlatinumSketch. Includes different kinds of firearms, crafting, explosives, ammunition, and gun-related feats. Paramount for fun play as a Gunslinger.
+
+https://www.gmbinder.com/share/-LgZdn4EEKFCIgljJofW
+
 ## Monster Hunter Monster Manual
 
 Works in tandem with [Amellwind's Guide to Monster Hunting](https://www.gmbinder.com/share/-LCk9FgQaqaXBVmLeCeT)
