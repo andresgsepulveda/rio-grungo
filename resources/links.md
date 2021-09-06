@@ -11,6 +11,18 @@ Explore the Rules and Options for players and Dungeon Masters in this Monster Hu
 
 https://www.gmbinder.com/share/-LCk9FgQaqaXBVmLeCeT
 
+## Creature Loot
+
+This documentation adds additional rules and items for players to loot off of creatures that are native to D&D 5E. 
+
+https://www.gmbinder.com/share/-L9zV7_eIrs3bqQ_cNd5
+
+### Volo's Edition
+
+If a creature isn't available in the base version, it might be available in this one. 
+
+https://www.gmbinder.com/share/-LAEqbSYU8PaPSYrsEK0
+
 ## Herbalism and Alchemy Homebrew v1.2
 
 This supplement outlines expanded rules for herbalism and alchemy in D&D 5e. Additionally, it included random tables and information for crafting and foraging for local flora based on environment. 
