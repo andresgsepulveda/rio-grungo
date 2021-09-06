@@ -42,3 +42,9 @@ Works in tandem with [Amellwind's Guide to Monster Hunting](https://www.gmbinder
 A bestiary of deadly monsters from the Monster Hunter universe made by /u/Amellwind | patreon.com/amellwind. Contains bestiary info as well as loot and abnormal status effects.
 
 https://www.gmbinder.com/share/-L0j3FWNhBx15I-lR7qC
+
+## Strongholds and Followers
+
+Outlines the ability for players to create a stronghold and benefit from things like armies and owning land. Mostly I use it for the Concordance mechanic when having players who have characters of Divine/Pact type magics. 
+
+https://anyflip.com/vftkf/cfen/basic
