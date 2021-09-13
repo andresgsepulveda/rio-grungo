@@ -1,11 +1,11 @@
 
-# Beacon
+# Shulassakar Beacon
 
 *Wonderous item, ???*
 
 This dodecahedron of faintly glowing crystal is heavier than it appears. It pulsates and thrums when touched.
 
-Mahli noted that this beacon was once an artifact belonging to the Yuan-ti of Krezent. Legends say that it allows people to retain their memories after death.
+Mahli noted that this beacon was once an artifact belonging to the Yuan-ti, or 'shulassakar', of Krezent. Legends say that it allows people to retain their memories after death.
 
 Focusing on this beacon in the Boneyard granted a Fragment of Possibility. 
 
