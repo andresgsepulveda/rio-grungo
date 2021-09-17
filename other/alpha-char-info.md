@@ -12,6 +12,15 @@ DO NOT FEEL PRESSURED TO TAKE MY SUGGESTIONS AND RUN WITH THEM! I am just giving
 
 This character is a Warforged Redemption Paladin. 
 
+### Archetype
+
+I tend to lump character classes together into archetypes or roles that make sense to me.  A lot of my exposure into building a team was from Final Fantasy XIII, I've yet to see a role definition system as well put together as their paradigm system (I WILL FIGHT ON THIS).
+
+A redemption paladin falls into the Defender `DEF` and Synergist `SYN` roles in the party. 
+
+* `DEF` - Defender / Sentinel -- 
+* `SYN` - Synergist -- 
+
 ### Key Points
 
 * TBD
