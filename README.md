@@ -1,4 +1,5 @@
-# rio-grungo
+# Campaign Repo - Rio Grunko
+
 A repository hosting information on the Rio Grungo D&amp;D 5E Campaign. This repo will be updated semi-regularly 1-2 days after the latest session.
 
 ## Contents
