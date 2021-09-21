@@ -11,4 +11,5 @@ A repository hosting information on the Rio Grungo D&amp;D 5E Campaign. This rep
   * Receipts of all loot collected for a particular session.
 * **Magic Items:** A list of every magic item encountered, sorted by rarity.
 * **Resources:** Any references or resoources to external (i.e. homebrew) content used in the campaign.
+* **Rules:** Any homebrew / optional (meaining implemented) rules that have been implemented for this campaign.
 
