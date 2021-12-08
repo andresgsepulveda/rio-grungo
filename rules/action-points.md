@@ -26,14 +26,6 @@ Both sides of a roll will be given one opportunity (or response) to spend AP. Th
 
 For example, if a player decides to spend an AP on an attack roll they are making, the DM can choose to spend an AP in response for either the player’s attack roll or the following damage roll, if successful. Afterwards, the player cannot use another AP in response to add onto the resulting damage roll.
 
-### Ephemeral Tolls
-
-Players can choose to expend one (1) or more AP in place of an ephemeral toll (ET) requirement for an ability.
-
-### Reverse Death
-
-Players can choose to expend one (1) AP in order to reverse the effect of a failed death saving throw. This reversal is considered a successful death saving throw.
-
 ### Change Fate
 
 Players and the DM can choose to expend two (2) or more (in multiples of two) AP in order to subtract 1d6 from an attack roll, damage roll, saving throw, or skill check. 
