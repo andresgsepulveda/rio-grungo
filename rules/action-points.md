@@ -20,14 +20,18 @@ A creature cannot spend more AP than their proficiency bonus on a single roll.
 
 Players and the DM can choose to expend one (1) or more AP to add 1d6 to an attack roll, damage roll, saving throw, or skill check. ***Critical hits can occur if the raw roll + the AP bonus is greater than or equal to 20.***
 
-#### Anti-Adversary Clause
+### Change Fate
+
+Players and the DM can choose to expend two (2) or more (in multiples of two) AP in order to subtract 1d6 from an opposing attack roll, damage roll, saving throw, or skill check. Non-damage rolls cannot be reduced to lower than a 1. Damage rolls cannot be reduced to lower than 1 hit point.
+
+## Errata / Clarification
+
+### Anti-Adversary Clause
 
 Both sides of a roll will be given one opportunity (or response) to spend AP. The purpose of this clause is to prevent adversarial conflict between player and DM, such that either side decides to tack on AP to ‘cancel’ out effects in response chains. AP is meant to narratively and mechanically bolster the player and create an environment where luck, destiny, or whatever power you determine guides a creature prevails.
 
 For example, if a player decides to spend an AP on an attack roll they are making, the DM can choose to spend an AP in response for either the player’s attack roll or the following damage roll, if successful. Afterwards, the player cannot use another AP in response to add onto the resulting damage roll.
 
-### Change Fate
+### Bardic Inspiration & Action Points
 
-Players and the DM can choose to expend two (2) or more (in multiples of two) AP in order to subtract 1d6 from an attack roll, damage roll, saving throw, or skill check. 
-
-Non-damage rolls cannot be reduced to lower than a 1. Damage rolls cannot be reduced to lower than 1 hit point.
+Bardic Inspiration and AP are completely independent resources. You can use Bardic Inspiration and AP in the same roll. Inspiration (what AP is replacing) does not conflict with Bardic Inspiration, and the last thing anyone would want is to limit a class (i.e bard)'s core functionality. 
